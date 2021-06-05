@@ -1,0 +1,14 @@
+.app {
+  background: #fafafa;
+}
+.app_post {
+  padding: 20px;
+  /* padding-top: 30px; */
+  padding-bottom: 40px;
+}
+.alert {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  margin-top: 35px;
+  padding-top: 30px;
+}

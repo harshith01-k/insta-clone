@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.upload {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 60px auto;
+
+  background: #fafafa;
+  z-index: 10;
+  padding: 40px 0;
+}
+.caption {
+  width: 250px;
+  height: 40px;
+  padding: 3px 20px;
+  font-size: 18px;
+  outline: none;
+  cursor: text;
+  margin: 5px 0;
+}
+.btn-upload {
+  margin: 12px 0 !important;
+  background: none;
+  padding: 5px 13px !important;
+  border: none;
+  color: #fff !important;
+  background: lightskyblue !important;
+}
+.op {
+  opacity: 0.4;
+}
